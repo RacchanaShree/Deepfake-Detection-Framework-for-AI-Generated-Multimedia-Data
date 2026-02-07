@@ -19,9 +19,8 @@ This is a powerful open-source tool designed to detect fake images, videos, and 
 You can test the deepfake detection capabilities of this by uploading your video files. The tool will analyze each frame of the video, detect faces, and determine the likelihood of the video being real or fake.
 
 Examples:  
-1. [Video1-fake-1-ff.mp4]("C:\Users\THRIVENI GK\OneDrive\Desktop\videos\fake\00065_id00371_t20i0HtPwW0_id04689_wavtolip.mp4")
-2. [Video6-real-1-ff.mp4]("C:\Users\THRIVENI GK\OneDrive\Desktop\videos\real\00195.mp4")
-
+1. [Video1-fake-1-ff.mp4]
+2. [Video6-real-1-ff.mp4]
 ---
 
 ## How It Works
